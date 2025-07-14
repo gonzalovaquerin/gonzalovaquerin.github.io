@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ec43bf9-0c82-4e6c-aef0-f526377b0a64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/DMSans-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/DMSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Carteleria/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Carteleria/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Carteleria/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Carteleria/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Carteleria/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/CasaDelEstudiante/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/3d/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/Ilustraciones/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/Ilustraciones/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/Ilustraciones/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/Ilustraciones/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Cosmos/Ilustraciones/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOEWE/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOGOS BANNER PNG/LOGOS BLANCO-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOGOS BANNER PNG/LOGOS BLANCO-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOGOS BANNER PNG/LOGOS BLANCO_Mesa de trabajo 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOGOS BANNER PNG/LOGOS-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOGOS BANNER PNG/LOGOS-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/LOGOS BANNER PNG/LOGOS_Mesa de trabajo 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Montajes/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Montajes/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Montajes/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Montajes/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Montajes/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Montajes/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Pegatinas/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Presenta1/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Punto/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Punto/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Punto/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Punto/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Punto/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Punto/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/TipografiaPresenta/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/TipografiaPresenta/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/TipografiaPresenta/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/TipografiaPresenta/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TomasVaquerin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gonzalovaquerin/gonzalovaquerin.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;1f71c65b-dc82-4e55-94d1-814d741a4e72&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2zBoG0yTPi1Bt1VDQAaGjFlwB4M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;K:/Desktop/gonzalo/gonzalovaquerin.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\Desktop\gonzalo\gonzalovaquerin.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\Desktop\gonzalo\gonzalovaquerin.github.io\imgs\FONDOS" />
+      <recent name="K:\Desktop\gonzalo\gonzalovaquerin.github.io\imgs\fondo2" />
+      <recent name="K:\Desktop\gonzalo\gonzalovaquerin.github.io\imgs\fondo" />
+      <recent name="K:\Desktop\gonzalo\gonzalovaquerin.github.io\imgs\LOGOS BANNER PNG" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec43bf9-0c82-4e6c-aef0-f526377b0a64" name="Changes" comment="" />
+      <created>1751213728304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751213728304</updated>
+      <workItem from="1751213730322" duration="2634000" />
+      <workItem from="1751282329335" duration="12169000" />
+      <workItem from="1751458681259" duration="243000" />
+      <workItem from="1751458943001" duration="7391000" />
+      <workItem from="1751538476682" duration="1502000" />
+      <workItem from="1751665971275" duration="3801000" />
+      <workItem from="1752511321872" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
